@@ -32,27 +32,14 @@ Alpha (excess return over benchmark)
 Sharpe Ratio (risk-adjusted return)
 
 📊 Key Findings (Summary) :- 
-Fund Category Top Performer Key Insight Large Cap 
-(ICICI Prudential Bluechip Best Sharpe Ratio among peers) 
+Fund Category Top Performer Key Insight 
+(Large Cap ICICI Prudential Bluechip Best Sharpe Ratio among peers) 
 (Mid Cap Nippon India Growth Fund Strong returns with relatively lower risk 
 (Small Cap SBI Small Cap Fund Highest Sharpe Ratio — best risk-adjusted return)
 (Multi Cap HDFC Flexicap Fund Highest return with comparatively lower risk) 
 (ELSSHDFC Tax Saver FundBest risk-adjusted (Sharpe) performance) 
 (Debt (Short/Low Duration) ICICI Prudential Funds Most consistent returns across durations) 
 (Corporate Bond HDFC Corporate Bond Fund Highest AUM, competitive returns)
-
-📚 Report Structure :-
-├── Introduction & Objectives
-├── Chapter 1 – Industry Summary (Evolution of Indian MF Industry, 1963–Present)
-├── Chapter 2 – Theoretical Framework (AMC structure, Fund classification, Key terms)
-├── Chapter 3 – Review of Literature (24 prior studies referenced)
-├── Chapter 4 – Research Methodology
-├── Chapter 5 – Data Analysis (Equity & Debt fund comparisons, charts & tables)
-├── Findings
-├── Conclusion
-├── Suggestions & Recommendations
-└── Bibliography
-
 
 💡 Conclusion :-
 The study finds that mutual funds, when evaluated through proper risk-return analysis rather than headline returns alone, offer a diversified and professionally managed alternative to traditional investment avenues. Debt schemes suit low-risk-tolerance investors seeking stability, while equity schemes suit long-term, higher-risk-appetite investors seeking capital appreciation.
