@@ -11,7 +11,7 @@ Debt Funds — Low Duration, Short Duration, Ultra-Short Duration, Medium-to-Lon
 
 🏦 AMCs Analyzed:-
 #Asset Management Company 
-1) ICICI Prudential Mutual Fund 2) HDFC Mutual Fund 3) Aditya Birla Sun Life (ABSL) Mutual Fund 4) Nippon India Mutual Fund 5) SBI Mutual Fund
+ 1) ICICI Prudential Mutual Fund 2) HDFC Mutual Fund 3) Aditya Birla Sun Life (ABSL) Mutual Fund 4) Nippon India Mutual Fund 5) SBI Mutual Fund
 
 🎯 Objectives
 Analyze comparative performance based on NAV and historical returns (1-yr, 3-yr, 5-yr).
